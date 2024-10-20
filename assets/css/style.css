@@ -9,6 +9,7 @@ body {
     font-size: 18px;
     margin: 0;
     padding: 0;
+    background: url(../images/leaves.webp)
 
 }
 
@@ -80,6 +81,10 @@ nav a:first-child {
     float: left;
 }
 
+img {
+    border: 5px #4aaaa5 double;
+}
+
 footer {
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
@@ -88,6 +93,7 @@ footer {
     color: #cccccc;
     clear: both;
     height: 50px;
+    padding: 30px 0;
 }
 
 h1 {
